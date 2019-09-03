@@ -1,5 +1,5 @@
 # test-archives
-These data are Public Domain.
+These data are in Public Domain.
 
 Test archives containing 2099 files. File names contain Japanese characters.
 
