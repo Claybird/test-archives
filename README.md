@@ -16,7 +16,7 @@ These archives are used to test LhaForge.
 - test_2099.tgz: tar+gzip
 - test_2099.cab
 
-#Minor formats
+# Minor formats
 - test.bel: Belon format. See https://www.vector.co.jp/soft/win95/util/se079561.html
 - test_2099.GCA: GCA format. See http://www.emit.jp/
 - test_2099.ace: Ace format. See http://www.madobe.net/archiver/lib/UnAceV2J.html
@@ -32,7 +32,7 @@ These archives are used to test LhaForge.
 - test_2099.yz1: YZ1 format, no password
 
 
-##Note:
+## Note:
 For bza/gza, header format information is found in BgaTool.h, from http://www.kmonos.net/lib/xacrett.ja.html
 ~~~
 struct BgaHeader
